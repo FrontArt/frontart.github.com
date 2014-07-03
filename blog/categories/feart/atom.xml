@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: feart | Feart]]></title>
+  <link href="http://FrontArt.github.io/blog/categories/feart/atom.xml" rel="self"/>
+  <link href="http://FrontArt.github.io/"/>
+  <updated>2014-07-03T10:26:42+08:00</updated>
+  <id>http://FrontArt.github.io/</id>
+  <author>
+    <name><![CDATA[Feart_team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code Highlignt Test]]></title>
+    <link href="http://FrontArt.github.io/blog/2014/07/02/highlight/"/>
+    <updated>2014-07-02T15:18:01+08:00</updated>
+    <id>http://FrontArt.github.io/blog/2014/07/02/highlight</id>
+    <content type="html"><![CDATA[<h1>语法高亮测试</h1>
+
+<h3>语法</h3>
+
+<pre><code>``` [language] [title] [url] [link text] [linenos:false] [start:#] [mark:#,#-#]
+    code snippet
+```
+</code></pre>
+
+<p>例子1</p>
+
+<p>```java Java语言
+public class helloworld{</p>
+
+<pre><code>static public void main(String[] args)
+{
+    System.out.println("Hello,World");
+}
+</code></pre>
+
+<p>}
+```</p>
+
+<p>例子2</p>
+
+<p>```javascript JavaScript语言
+var person = new Object();
+function sayhi()
+{</p>
+
+<pre><code>console.log("hello,world");
+</code></pre>
+
+<p>}
+```</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Feart]]></title>
+    <link href="http://FrontArt.github.io/blog/2014/07/02/feart/"/>
+    <updated>2014-07-02T11:10:46+08:00</updated>
+    <id>http://FrontArt.github.io/blog/2014/07/02/feart</id>
+    <content type="html"><![CDATA[<p><img src="http://natumsol.qiniudn.com/feart.jpg" alt="bird" /></p>
+
+<h1>About Feart</h1>
+
+<p>前端开发小团队（Feart.cn），一个追求品质与美的前端开发团队。Be Elenent ，Be an Art是我们的目标。虽然团队刚成立，规模不大，但是我们充满激情，相信在部长的带领下，Feart会越来越强大~~</p>
+
+<p>For A Better Web,We are Trying&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>
